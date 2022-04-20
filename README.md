@@ -1,7 +1,7 @@
 # Deep-Learning-For-Computer-Vision
 Official Repo for Deep Learning for Compyter Vision Course offered by NPTEL
-### Fall 2022 Link : Coming Soon 
-### Lectures: https://www.youtube.com/watch?v=rfAvjCf1_ZI&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG 
+#### Fall 2022 Link : Coming Soon 
+#### Lectures: https://www.youtube.com/watch?v=rfAvjCf1_ZI&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG 
 ## Course Cirriculum
 ### Week 1:Introduction and Overview: 
 Course Overview and Motivation; Introduction to Image Formation, Capture and Representation; Linear Filtering, Correlation,          Convolution
